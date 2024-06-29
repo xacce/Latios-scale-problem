@@ -10,7 +10,7 @@
         "com.unity.entities.graphics": "1.2.1",
         "com.unity.burst": "1.8.12"
       },
-      "hash": "02c7797a540d3e6d26314263b3b1f57f0f56c2d5"
+      "hash": "1e6806d9c34d802fe143df890a103785a4166675"
     },
     "com.unity.audio.dspgraph": {
       "version": "0.1.0-preview.22",
@@ -26,7 +26,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.burst": {
-      "version": "1.8.13",
+      "version": "1.8.16",
       "depth": 1,
       "source": "registry",
       "dependencies": {
@@ -181,7 +181,7 @@
       }
     },
     "com.unity.scriptablebuildpipeline": {
-      "version": "1.21.21",
+      "version": "1.21.23",
       "depth": 2,
       "source": "registry",
       "dependencies": {},
